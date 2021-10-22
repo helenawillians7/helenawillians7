@@ -13,7 +13,7 @@
   <img align="center" alt="Helena-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Helena-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Helena-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="right" alt="Helena-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+   <img align="right" alt="Helena-pic" height="150" style="border-radius:50px;" src="https://github.com/helenawillians7/my_gifs/blob/ed6470ceef0907bdd49e06471a46e1857cc86555/gif_blonde.png">
 </div>
   
   ##
